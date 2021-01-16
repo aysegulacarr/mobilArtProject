@@ -1,0 +1,62 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>details</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content >
+  <ion-card>
+    <ion-img style="width: 400px; height:400px;" [src]="datax.baseimageurl"></ion-img> 
+    <ion-card-title>
+      {{datax.date}}
+    </ion-card-title>
+    
+    <!-- <button ion-button icon-only (click) ="()"  > -->
+  
+  <ion-text color="black">
+  
+     <td>{{ datay.datebegin}}   </td>
+     <td>{{ datay.division }}</td> 
+  </ion-text>
+  <ion-text color="black"> <td>{{ datay.division }}</td> </ion-text>
+  <ion-text color="black"> <td>{{ datay.labeltext }}</td> </ion-text>
+  
+  </ion-card>
+  
+
+
+</ion-content>
+ <ion-card>{{ datay.division }}  </ion-card>
+ <ion-item>
+  <div *ngFor="let t of datay.people">
+    <h2>Culture:{{t.culture}}</h2>
+    <h2>{{t.birthplace}}</h2>
+    <h2>{{t.name}}</h2>
+    <td>{{t.personid}}</td>
+    <td>Artist:{{t.role}}</td>
+   
+  </div>
+
+ </ion-item>
+  
+    <ion-card *ngFor="let t of datay.people"> 
+      
+     <!-- <ion-button (click)="getPerson(t.personid)" ion-button color="danger">{{t.personid}}</ion-button> -->
+     <button item-right clear (click)="getPerson(t.personid)">
+      <ion-icon name="color-palette"  style="zoom:2.0" ></ion-icon>
+     </button>
+     <h2></h2>
+     </ion-card>
+    
+     
+     
+    
+     
+    <!-- <button ion-button icon-only (click) ="()"  > -->
+    
+      <!-- {{p.displaydate}}
+      {{p.culture}}
+      {{p.url}} -->
+  
+       
+

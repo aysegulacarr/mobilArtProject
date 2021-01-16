@@ -1,0 +1,46 @@
+#container {
+  text-align: center;
+
+  position: center;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #7a2a2a;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration:navy;
+}
+ion-card {
+  display: inline-block;
+  width: 100%;
+  margin: 10px auto  ;
+ 
+}
+img{
+
+position: center;
+}
+.error {
+  width: 50%; height: auto; margin: auto;
+  font-size: 1.0em;
+  text-align: center;
+  position: relative;
+  top: 52%;
+   width: 100%;
+}
+

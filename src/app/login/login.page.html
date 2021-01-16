@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-item>
+    <ion-label position ="stacked">Email</ion-label>
+    <ion-input type="email" [(ngModel)]="email"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label position ="stacked">Password</ion-label>
+    <ion-input type="password" [(ngModel)]="pwd"></ion-input>
+  </ion-item>
+  
+  <br><br><br>
+    <div text-center>
+      <ion-button expand="block" *ngIf="!spin" (click)="login()">login</ion-button>
+      <ion-spinner *ngIf="spin"></ion-spinner>
+    </div>
+  </ion-content>

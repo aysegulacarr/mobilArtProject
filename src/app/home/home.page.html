@@ -1,0 +1,74 @@
+
+
+
+
+
+
+<!-- <ion-content [fullscreen]="true">
+  <h3>nasıl amk</h3>
+  <ion-card *ngFor="let inf of information.records">
+    
+    <ion-card-title>{{inf.id}}</ion-card-title>
+    <ion-img>{{inf.baseimageurl}}.jpeg</ion-img>
+     <ion-img [src]="inf.baseimageurl"></ion-img> 
+     <ion-card-title>{{inf.division}}</ion-card-title>
+   <ion-content> -->
+     
+
+  <ion-content padding>
+
+    
+  
+    <ion-card name="error" *ngFor="let item of x">
+      <button ion-item  (click)="goToDetail(item)">
+
+        <ion-img style="width: 400px; height:400px;" [src]="item.baseimageurl"></ion-img> 
+        <ion-card-content >
+         <p>{{item.imageid}}</p> 
+         <p>{{item.copyright}}</p>
+
+        </ion-card-content>
+        
+      </button>
+     
+    </ion-card> 
+
+    
+  
+
+
+
+ 
+    <ion-card *ngIf="let i of y">
+    <ion-card-title>{{i.fileid}}</ion-card-title>
+  </ion-card>
+   
+
+
+     
+</ion-content>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        

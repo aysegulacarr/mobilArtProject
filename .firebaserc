@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-39c0b": {
+      "hosting": {
+        "app": [
+          "ionic-39c0b"
+        ]
+      }
+    }
+  }
+}
