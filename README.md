@@ -5,7 +5,7 @@ DailyArt uygulamasından esinlenilmiştir.Harward Sanat Müzesi eserlerini incel
 Projeyi çalıştırmak için gerekli komutlar sırasıyla verilmiştir
 indirmek için:
 
-    git clone
+    git clone https://github.com/aysegulacarr/mobilArtApp.git
 npm indirmek için:
 
     npm install
