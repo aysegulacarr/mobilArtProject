@@ -60,10 +60,20 @@ Cordava eklentisi eklentisi için:
 
 Dosya düzeni
 
-<img src="screenShot/dosyaduzeni1.png" width="200" height="350" />
+<img src="screenShot/dosyaduzeni1.jpg" width="200" height="350" />
+login:
+Firebase authentication ile kayıtlı kullanıcıların giriş yapıp akış sayfasına girişi saylar.
+home:
+Ana akışın gerçekleştiği günlük rastgele 10 verinin çağrılıp görüntülendiği kısımdır.
+details:
+Seçilen eser hakkında detaylı bilginin göüntülenmesini sağlar.İconda tıklandığında browserdan kişi eserlerine yönlendirilir.
+artfeeds:
+harvard museum API eser ve detayları çağırılır.
+
+
 Login Sayfası
 
-<img src="screenShot/login.jpg" width="200" height="350" />
+<img src="screenShot/login.jpeg" width="200" height="350" />
 Akış sayfası
 
 <img src="screenShot/feed.jpg" width="200" height="350" />
