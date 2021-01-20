@@ -40,6 +40,7 @@ Cordava eklentisi eklentisi için:
         - eser sahibi 
         - sergi adı
         - numaraları 
+        
         vb. bilgiler gösterilir.
         
    - Detaylar sayfasınının en altındaki palet iconuna çift tıklandığında detay sayfasındaki eserin sahibinin diğer eserlerine ek sekme açarak yönlendirir.
@@ -53,9 +54,8 @@ Cordava eklentisi eklentisi için:
   - Routing
   - Reactive form
   - In App Browser
-  - CommonModule
-  - HttpClientModule
-
+  
+ 
 # Ekran görüntüleri
 
 Dosya düzeni
