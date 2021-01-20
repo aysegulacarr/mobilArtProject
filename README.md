@@ -27,7 +27,6 @@ Cordava eklentisi eklentisi için:
  
         ionic cordova plugin add cordova-plugin-inappbrowser
         
-        
         npm install @ionic-native/in-app-browser
         
 # Uygulama Kullanımı
@@ -39,6 +38,7 @@ Cordava eklentisi eklentisi için:
    - Detaylar sayfasınının en altındaki palet iconuna çift tıklandığında eser sahibinin diğer eserlerine ek sekme açarak yönlendirir.
    
 # Özellikler
+
   - Firebase Authentication
   - Firestore
   - İonic Storage
