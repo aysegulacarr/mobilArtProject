@@ -19,7 +19,7 @@ ionic çalıştırmak için:
  - Kullanıcı verileri Firebase Firestore veritabanında tutulur
  - Harvar museum api kullanılarak kullanıcıya eserler ve bilgileri sunulur.
  
-# konfigiruasyon
+# konfigüruasyon
 
 Harvars art api erişim alınıp kullanılabilir https://github.com/harvardartmuseums/api-docs#access-to-the-api
 
