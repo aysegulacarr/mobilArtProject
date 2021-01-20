@@ -34,8 +34,15 @@ Cordava eklentisi eklentisi için:
    - Girişi için login ekranından kayıtlı kullanıcı maili ve şifresi alınır.
    - Kullanıcı bilgileri doğru ise uygulamaya giriş yapılır.
    - Günlük güncellenen eserlerden rastgele 10 tanesine ulaşılır.
-   - Eser incelenmek istenirse üstüne tıklandığında detaylar saayfasında eğer kaydı varsa hangi kültüre ait olduğu,yılı, eser sahibi gibi bilgiler gösterilir.
-   - Detaylar sayfasınının en altındaki palet iconuna çift tıklandığında eser sahibinin diğer eserlerine ek sekme açarak yönlendirir.
+   - Eser incelenmek istenirse üstüne tıklandığında detaylar saayfasında eğer kaydı varsa hangi 
+        - kültüre ait olduğu
+        - yılı
+        - eser sahibi 
+        - sergi adı
+        - numaraları 
+        vb. bilgiler gösterilir.
+        
+   - Detaylar sayfasınının en altındaki palet iconuna çift tıklandığında detay sayfasındaki eserin sahibinin diğer eserlerine ek sekme açarak yönlendirir.
    
 # Özellikler
 
@@ -48,7 +55,14 @@ Cordava eklentisi eklentisi için:
   - In App Browser
 
 # Ekran görüntüleri
+
+Dosya düzeni
+<img src="screenShot/dosyaduzeni.jpg" width="200" height="350" />
+Login Sayfası
 <img src="screenShot/login.jpg" width="200" height="350" />
+Akış sayfası
 <img src="screenShot/feed.jpg" width="200" height="350" />
+Detay sayfası
 <img src="screenShot/details.jpg" width="200" height="350" />
+Kişinin diğer eserlerine app browser ile yönlendirilir->
 <img src="screenShot/person.jpg" width="200" height="350" />
