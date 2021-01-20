@@ -70,6 +70,6 @@ Akış sayfası
 Detay sayfası
 
 <img src="screenShot/details.jpg" width="200" height="350" />
-Kişinin diğer eserlerine app browser ile yönlendirilir->
+Kişinin diğer eserlerine  yönlendirilir->
 
 <img src="screenShot/person.jpg" width="200" height="350" />
