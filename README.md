@@ -17,7 +17,7 @@ ionic çalıştırmak için:
 # Temel Bilgiler
 
  - Kullanıcı verileri Firebase Firestore veritabanında tutulur
- - Harvar museum api kullanılarak kullanıcıya eserler ve bilgileri sunulur.
+ - Harvard museum api kullanılarak kullanıcıya eserler ve bilgileri sunulur.
  
 # konfigüruasyon
 
@@ -53,6 +53,8 @@ Cordava eklentisi eklentisi için:
   - Routing
   - Reactive form
   - In App Browser
+  - CommonModule
+  - HttpClientModule
 
 # Ekran görüntüleri
 
