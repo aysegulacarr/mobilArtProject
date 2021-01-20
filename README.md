@@ -15,13 +15,18 @@ ionic çalıştırmak için:
     ionic serve
     
 # Temel Bilgiler
- -Kullanıcı verileri Firebase Firestore veritabanında tutulur
+
+ - Kullanıcı verileri Firebase Firestore veritabanında tutulur
+ - Harvar museum api kullanılarak kullanıcıya eserler ve bilgileri sunulur.
+ 
 # konfigiruasyon
+
 Harvars art api erişim alınıp kullanılabilir https://github.com/harvardartmuseums/api-docs#access-to-the-api
 
 Cordava eklentisi eklentisi için:
  
         ionic cordova plugin add cordova-plugin-inappbrowser
+        
         
         npm install @ionic-native/in-app-browser
         
@@ -31,7 +36,7 @@ Cordava eklentisi eklentisi için:
    - Kullanıcı bilgileri doğru ise uygulamaya giriş yapılır.
    - Günlük güncellenen eserlerden rastgele 10 tanesine ulaşılır.
    - Eser incelenmek istenirse üstüne tıklandığında detaylar saayfasında eğer kaydı varsa hangi kültüre ait olduğu,yılı, eser sahibi gibi bilgiler gösterilir.
-   - Detaylar sayfasınının en altındaki palet iconuna çift tıklandığında eser sahibinin diğer eserlerine ek sekma açarak yönlendirir.
+   - Detaylar sayfasınının en altındaki palet iconuna çift tıklandığında eser sahibinin diğer eserlerine ek sekme açarak yönlendirir.
 #
 # Ekran görüntüleri
 <img src="screenShot/login.jpg" width="200" height="350" />
