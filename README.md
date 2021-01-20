@@ -62,11 +62,11 @@ Dosya düzeni
 
 <img src="screenShot/dosyaduzeni.png" width="200" height="350" />
 
-##login:
+login:
 
 Firebase authentication ile kayıtlı kullanıcıların giriş yapıp akış sayfasına girişi saylar.
 
-## home:
+home:
 
 Ana akışın gerçekleştiği günlük rastgele 10 verinin çağrılıp görüntülendiği kısımdır.
 
@@ -74,7 +74,7 @@ details:
 
 Seçilen eser hakkında detaylı bilginin göüntülenmesini sağlar.İconda tıklandığında browserdan kişi eserlerine yönlendirilir.
 
-##artfeeds:
+artfeeds:
 
 harvard museum API eser ve detayları çağırılır.
 
