@@ -37,7 +37,8 @@ Cordava eklentisi eklentisi için:
    - Günlük güncellenen eserlerden rastgele 10 tanesine ulaşılır.
    - Eser incelenmek istenirse üstüne tıklandığında detaylar saayfasında eğer kaydı varsa hangi kültüre ait olduğu,yılı, eser sahibi gibi bilgiler gösterilir.
    - Detaylar sayfasınının en altındaki palet iconuna çift tıklandığında eser sahibinin diğer eserlerine ek sekme açarak yönlendirir.
-#
+# Özellikler
+
 # Ekran görüntüleri
 <img src="screenShot/login.jpg" width="200" height="350" />
 <img src="screenShot/feed.jpg" width="200" height="350" />
