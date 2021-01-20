@@ -64,7 +64,7 @@ Dosya düzeni
 
 login:
 
-Firebase authentication ile kayıtlı kullanıcıların giriş yapıp akış sayfasına girişi saylar.
+Firebase Authentication ile kayıtlı kullanıcıların giriş yapıp akış sayfasına girişi saylar.
 
 home:
 
@@ -72,11 +72,11 @@ Ana akışın gerçekleştiği günlük rastgele 10 verinin çağrılıp görün
 
 details:
 
-Seçilen eser hakkında detaylı bilginin göüntülenmesini sağlar.İconda tıklandığında browserdan kişi eserlerine yönlendirilir.
+Seçilen eser hakkında detaylı bilginin görüntülenmesini sağlar.İcona tıklandığında browserdan kişi eserlerine yönlendirilir.
 
 artfeeds:
 
-harvard museum API eser ve detayları çağırılır.
+Harvard museum API eser ve detayları çağırılır.
 
 
 Login Sayfası
