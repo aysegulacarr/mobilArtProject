@@ -19,7 +19,7 @@ ionic çalıştırmak için:
  - Kullanıcı verileri Firebase Firestore veritabanında tutulur
  - Harvard museum api kullanılarak kullanıcıya eserler ve bilgileri sunulur.
  
-# konfigüruasyon
+# konfigürasyon
 
 Harvars art api erişim alınıp kullanılabilir https://github.com/harvardartmuseums/api-docs#access-to-the-api
 
@@ -66,11 +66,11 @@ Dosya düzeni
 
 Firebase authentication ile kayıtlı kullanıcıların giriş yapıp akış sayfasına girişi saylar.
 
-##home:
+## home:
 
 Ana akışın gerçekleştiği günlük rastgele 10 verinin çağrılıp görüntülendiği kısımdır.
 
-##details:
+details:
 
 Seçilen eser hakkında detaylı bilginin göüntülenmesini sağlar.İconda tıklandığında browserdan kişi eserlerine yönlendirilir.
 
