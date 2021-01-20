@@ -57,12 +57,17 @@ Cordava eklentisi eklentisi için:
 # Ekran görüntüleri
 
 Dosya düzeni
+
 <img src="screenShot/dosyaduzeni.png" width="200" height="350" />
 Login Sayfası
+
 <img src="screenShot/login.jpg" width="200" height="350" />
 Akış sayfası
+
 <img src="screenShot/feed.jpg" width="200" height="350" />
 Detay sayfası
+
 <img src="screenShot/details.jpg" width="200" height="350" />
 Kişinin diğer eserlerine app browser ile yönlendirilir->
+
 <img src="screenShot/person.jpg" width="200" height="350" />
