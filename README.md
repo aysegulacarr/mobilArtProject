@@ -57,7 +57,7 @@ Cordava eklentisi eklentisi için:
 # Ekran görüntüleri
 
 Dosya düzeni
-<img src="screenShot/dosyaduzeni.jpg" width="200" height="350" />
+<img src="screenShot/dosyaduzeni.png" width="200" height="350" />
 Login Sayfası
 <img src="screenShot/login.jpg" width="200" height="350" />
 Akış sayfası
